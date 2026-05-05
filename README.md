@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/Badal-allthings/Badal-allthings/blob/main/Banner%20For%20GitHub%20with%20image.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Badal Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
